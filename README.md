@@ -49,12 +49,39 @@ Data preprocessing and model experimentation
 
 ---
 
-## 🛠️ Tech Playground
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,pandas,numpy,sklearn" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="45"/><br>Python
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/><br>TensorFlow
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/><br>PyTorch
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" height="45"/><br>OpenCV
+</td>
+</tr>
 
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45"/><br>Scikit-learn
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/><br>Pandas
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/><br>NumPy
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=flask" height="45"/><br>Flask
+</td>
+</tr>
+</table>
 ---
 
 ## 🌱 Current Journey
