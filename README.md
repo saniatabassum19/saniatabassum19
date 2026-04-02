@@ -28,12 +28,16 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 
-💡 I don't just learn tech — I build with it
-🚀 Currently exploring **AI, ML & Generative AI**
-🔥 Obsessed with creating real-world impactful projects
-🎯 Goal: Become a top AI Engineer
+I’m passionate about building intelligent systems that solve real-world problems.
+Currently focused on strengthening my foundations in Artificial Intelligence, Machine Learning, and Generative AI.
 
 ---
+
+## Learning Focus
+
+Machine Learning & Deep Learning
+Natural Language Processing & Computer Vision
+Data preprocessing and model experimentation
 
 ## ⚡ My Vibe
 
@@ -41,7 +45,6 @@ Here are some ideas to get you started:
 + Curious mind 🧠
 + Builder mindset 🔨
 + Creative thinker 🎨
-- Average? Never 😤
 ```
 
 ---
@@ -89,9 +92,7 @@ Here are some ideas to get you started:
 
 ## 💌 Let's Connect
 
-✨ “Building today what others will use tomorrow”
-
-* LinkedIn: your-link
-* Email: your-email
+* LinkedIn: https://www.linkedin.com/in/sania-tabassum-05b679263/
+* Email: saniatabassum1855@gmail.com
 
 ---
