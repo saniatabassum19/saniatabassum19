@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Your Sania Tabassum</h1>
 <h3 align="center">AI & ML Enthusiast | Data Lover 🚀</h3>
 
 ---
 
 🌱 Currently learning:
+-Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - NLP
@@ -48,5 +49,5 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Connect with me
-- LinkedIn: [your-link]
+- LinkedIn: [https://www.linkedin.com/in/sania-tabassum-05b679263/]
 - Email: your@email.com
