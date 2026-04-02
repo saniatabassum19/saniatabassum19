@@ -76,8 +76,8 @@ Data preprocessing and model experimentation
 ## 📊 GitHub Energy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saniatabassum19&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saniatabassum19&theme=radical"/>
 </p>
 
 ---
@@ -88,10 +88,7 @@ Data preprocessing and model experimentation
 <p align="center">
   <img src="https://raw.githubusercontent.com/saniatabassum19/saniatabassum19/output/github-contribution-grid-snake.svg" />
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saniatabassum19&theme=github-light&hide_border=true"/>
----
-
+ 
 ## 💌 Let's Connect
 
 * LinkedIn: https://www.linkedin.com/in/sania-tabassum-05b679263/
