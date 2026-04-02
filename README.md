@@ -14,40 +14,84 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Your Sania Tabassum</h1>
-<h3 align="center">AI & ML Enthusiast | Data Lover 🚀</h3>
-
----
-
-🌱 Currently learning:
--Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- NLP
-
-💡 Interests:
-- AI Projects
-- Computer Vision
-- Generative AI
-
----
-
-## 🛠️ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,flask,pandas,numpy" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">✨ Hey, I'm YOUR NAME ✨</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <i>Turning ideas into intelligent systems 🤖</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=AI+Enthusiast;Future+ML+Engineer;Building+Cool+Stuff+🚀;Learning+Everyday+✨">
 </p>
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: [https://www.linkedin.com/in/sania-tabassum-05b679263/]
-- Email: your@email.com
+## 🧠 About Me
+
+💡 I don't just learn tech — I build with it
+🚀 Currently exploring **AI, ML & Generative AI**
+🔥 Obsessed with creating real-world impactful projects
+🎯 Goal: Become a top AI Engineer
+
+---
+
+## ⚡ My Vibe
+
+```diff
++ Curious mind 🧠
++ Builder mindset 🔨
++ Creative thinker 🎨
+- Average? Never 😤
+```
+
+---
+
+## 🛠️ Tech Playground
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,pandas,numpy,sklearn" />
+</p>
+
+---
+
+## 🌱 Current Journey
+
+* 🧪 Experimenting with small AI projects
+* 📊 Learning data → models → impact
+* ✍️ Documenting everything on GitHub
+
+---
+
+## 🚀 Projects Coming Soon
+
+✨ Smart AI Tools
+✨ Computer Vision Apps
+✨ Hackathon Projects
+
+---
+
+## 📊 GitHub Energy
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (COOL FACTOR)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💌 Let's Connect
+
+✨ “Building today what others will use tomorrow”
+
+* LinkedIn: your-link
+* Email: your-email
+
+---
