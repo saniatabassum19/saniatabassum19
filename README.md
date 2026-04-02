@@ -81,8 +81,9 @@ Data preprocessing and model experimentation
 </p>
 
 ---
-
-## 🐍 Contribution Snake (COOL FACTOR)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
