@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">✨ Hey, I'm YOUR NAME ✨</h1>
+<h1 align="center">✨ Hey, I'm YOUR Sania Tabassum ✨</h1>
 
 <p align="center">
   <i>Turning ideas into intelligent systems 🤖</i>
