@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Sania Tabassum</h1>
-<h1 align="center">✨ Hey, I'm CSE-AIML ENGINEER✨</h1>
+ 
 
 <p align="center">
   <i>Turning ideas into intelligent systems 🤖</i>
