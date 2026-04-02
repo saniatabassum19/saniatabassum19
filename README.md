@@ -82,7 +82,7 @@ Data preprocessing and model experimentation
 
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniatabassum19&theme=github-light&hide_border=true"/>
 </p>
 
 <p align="center">
