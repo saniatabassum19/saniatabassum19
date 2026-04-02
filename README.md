@@ -86,7 +86,7 @@ Data preprocessing and model experimentation
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/saniatabassum19/saniatabassum19/output/github-contribution-grid-snake.svg" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniatabassum19&theme=github-light&hide_border=true"/>
