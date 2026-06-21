@@ -76,6 +76,13 @@ I enjoy exploring emerging AI technologies and building intelligent applications
 </tr>
 </table>
 ---
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-00C853?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FFB300?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
 
 ## 🌱 Current Journey
 
