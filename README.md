@@ -77,7 +77,7 @@ I enjoy exploring emerging AI technologies and building intelligent applications
 </table>
 ---
 
- ##AI Skills
+ # AI Skills
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge)
