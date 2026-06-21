@@ -76,6 +76,8 @@ I enjoy exploring emerging AI technologies and building intelligent applications
 </tr>
 </table>
 ---
+ ## 🤖 AI Skills
+
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-00C853?style=for-the-badge)
@@ -84,21 +86,6 @@ I enjoy exploring emerging AI technologies and building intelligent applications
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
 
-## 🌱 Current Journey
-
-* 🧪 Experimenting with small AI projects
-* 📊 Learning data → models → impact
-* ✍️ Documenting everything on GitHub
-
----
-
-## 🚀 Projects Coming Soon
-
-✨ Smart AI Tools
-✨ Computer Vision Apps
-✨ Hackathon Projects
-
----
 
 ## 📊 GitHub Energy
 
