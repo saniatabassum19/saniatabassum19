@@ -1,19 +1,6 @@
 ## Hi there 👋
 
-<!--
-**saniatabassum19/saniatabassum19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
 
 <h1 align="center">Sania Tabassum</h1>
  
@@ -28,18 +15,22 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 About Me
+ ## 🧠 About Me
 
-I’m passionate about building intelligent systems that solve real-world problems.
-Currently focused on strengthening my foundations in Artificial Intelligence, Machine Learning, and Generative AI.
+I am passionate about building intelligent systems that solve real-world problems using Artificial Intelligence and Machine Learning.
 
----
+💡 Areas of Expertise:
 
-## Learning Focus
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Agentic AI
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- Natural Language Processing (NLP)
+- Computer Vision
 
-Machine Learning & Deep Learning
-Natural Language Processing & Computer Vision
-Data preprocessing and model experimentation
+I enjoy exploring emerging AI technologies and building intelligent applications that create real-world impact.
 
 ## ⚡ My Vibe
 
